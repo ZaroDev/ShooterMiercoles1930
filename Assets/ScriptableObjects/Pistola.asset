@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46e7929f4ef32fb448035aabc54af9cc, type: 3}
+  m_Name: Pistola
+  m_EditorClassIdentifier: 
+  name: Pistola
+  fireType: 1
+  timeToReload: 1
+  bulletCount: 9
+  timeToShoot: 0.1
+  damage: 10
+  range: 100
+  magazineSize: 10
+  prefab: {fileID: 6122421589862250347, guid: bdfcd651b47582e459970017f9bae8c0, type: 3}
